@@ -1,6 +1,8 @@
 # Python Spending Analyzer
 This project shows how to use Python to (1) aggregate and code personal financial statements (e.g. from credit and debit card providers) and (2) analyze spending on a monthly and annual basis. 
 
+![](https://raw.githubusercontent.com/kburchfiel/python_spending_analyzer/master/project_media/interactive_graph_example.gif)
+
 ## Introduction
 When I was growing up, my dad would get me to code our family’s financial transactions so that he could analyze how our family was spending its money. When I first began doing this, I would have to type in dates and transactions from paper statements. Later on, I was able to download these statements from banking websites, which made the process much faster. 
 
