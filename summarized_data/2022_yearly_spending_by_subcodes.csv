@@ -1,0 +1,31 @@
+,Code,Subcode,Code_Description,Subcode_Description,Amount
+0,A,A-X,ATM,ATM Withdrawals,11.67
+1,B,B-B,Basics,Books,15.44
+2,B,B-C,Basics,Convenience Stores,82.26
+3,B,B-G,Basics,Gifts,90.39
+4,B,B-R,Basics,Cabs and Rideshare,206.98000000000002
+5,B,B-T,Basics,Local Public Transit,335.27
+6,B,B-X,Basics,Basics--Other,11.28
+7,D,D-X,Dining,Dining Out,689.43
+8,E,E-S,Entertainment,Sports,22.32
+9,E,E-W,Entertainment,Newspapers,12.0
+10,F,F-A,Food,Beer/Wine/Liquor,10.54
+11,F,F-G,Food,Grocery Stores,1740.53
+12,F,F-V,Food,Vending Machines,9.61
+13,H,H-F,Home,House Furnishings,204.07999999999998
+14,H,H-M,Home,Moving,12.52
+15,H,H-R,Home,Rent,5100.0
+16,J,J-S,Non-Work Income,Investment Account Withdrawals,-855.0
+17,M,M-E,Medical,Eye Care,6.12
+18,P,P-A,Technology,Tech Accessories,102.57
+19,P,P-G,Technology,Video/Computer Games,68.09
+20,S,S-T,Payments,Investment Account Deposits,1050.0
+21,T,T-A,Travel,Air Travel,771.5899999999999
+22,T,T-E,Travel,Entertainment on Trips,21.95
+23,T,T-F,Travel,Food on Trips,43.13
+24,T,T-H,Travel,Hotels,132.3
+25,T,T-S,Travel,Public Transit on Trips,80.67
+26,T,T-X,Travel,General Travel Expenses,5.42
+27,W,W-C,Clothing,Clothes,272.06
+28,Z,Z-C,Excluded,Credit Card Payments,1694.85
+29,Z,Z-X,Excluded,Other Excluded Expenses,-327.39

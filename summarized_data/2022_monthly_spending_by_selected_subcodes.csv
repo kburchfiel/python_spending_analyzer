@@ -1,0 +1,113 @@
+,Month,Code,Subcode,Code_Description,Subcode_Description,Amount
+0,1,B,B-C,Basics,Convenience Stores,21.68
+1,1,B,B-T,Basics,Local Public Transit,13.75
+2,1,D,D-X,Dining,Dining Out,74.33
+3,1,F,F-G,Food,Grocery Stores,116.86
+4,1,H,H-F,Home,House Furnishings,8.29
+5,1,H,H-R,Home,Rent,400.0
+7,1,T,T-A,Travel,Air Travel,209.74
+8,1,T,T-H,Travel,Hotels,132.3
+10,2,B,B-B,Basics,Books,5.92
+11,2,B,B-T,Basics,Local Public Transit,24.75
+12,2,D,D-X,Dining,Dining Out,2.65
+13,2,E,E-W,Entertainment,Newspapers,4.0
+14,2,F,F-G,Food,Grocery Stores,123.06
+15,2,H,H-R,Home,Rent,400.0
+17,2,T,T-A,Travel,Air Travel,302.62
+18,2,T,T-S,Travel,Public Transit on Trips,11.59
+20,3,B,B-C,Basics,Convenience Stores,23.25
+21,3,B,B-T,Basics,Local Public Transit,35.75
+22,3,D,D-X,Dining,Dining Out,152.25
+23,3,F,F-G,Food,Grocery Stores,110.19
+24,3,F,F-V,Food,Vending Machines,0.78
+25,3,H,H-R,Home,Rent,400.0
+26,3,T,T-X,Travel,General Travel Expenses,3.64
+29,4,A,A-X,ATM,ATM Withdrawals,13.5
+30,4,B,B-B,Basics,Books,9.4
+31,4,B,B-C,Basics,Convenience Stores,9.04
+32,4,B,B-R,Basics,Cabs and Rideshare,9.03
+33,4,B,B-T,Basics,Local Public Transit,19.25
+34,4,D,D-X,Dining,Dining Out,52.870000000000005
+35,4,F,F-G,Food,Grocery Stores,157.07999999999998
+36,4,F,F-V,Food,Vending Machines,1.73
+37,4,H,H-F,Home,House Furnishings,7.75
+38,4,H,H-R,Home,Rent,400.0
+39,4,T,T-S,Travel,Public Transit on Trips,4.52
+40,4,T,T-X,Travel,General Travel Expenses,1.78
+42,5,B,B-G,Basics,Gifts,14.5
+43,5,B,B-T,Basics,Local Public Transit,39.14
+44,5,D,D-X,Dining,Dining Out,82.03
+45,5,F,F-G,Food,Grocery Stores,105.1
+46,5,F,F-V,Food,Vending Machines,0.28
+47,5,H,H-R,Home,Rent,400.0
+48,5,P,P-A,Technology,Tech Accessories,55.03
+49,5,T,T-A,Travel,Air Travel,4.56
+50,5,T,T-S,Travel,Public Transit on Trips,9.55
+52,6,A,A-X,ATM,ATM Withdrawals,-1.31
+53,6,B,B-R,Basics,Cabs and Rideshare,62.36000000000001
+54,6,B,B-T,Basics,Local Public Transit,33.0
+55,6,D,D-X,Dining,Dining Out,16.77
+56,6,F,F-G,Food,Grocery Stores,140.21
+57,6,H,H-R,Home,Rent,400.0
+58,6,M,M-E,Medical,Eye Care,6.12
+59,6,P,P-G,Technology,Video/Computer Games,35.41
+60,6,T,T-F,Travel,Food on Trips,18.21
+62,7,B,B-B,Basics,Books,0.12
+63,7,B,B-G,Basics,Gifts,14.3
+64,7,B,B-R,Basics,Cabs and Rideshare,120.89000000000001
+65,7,B,B-T,Basics,Local Public Transit,35.75
+66,7,D,D-X,Dining,Dining Out,40.14
+67,7,F,F-G,Food,Grocery Stores,89.83
+68,7,F,F-V,Food,Vending Machines,0.96
+69,7,H,H-F,Home,House Furnishings,8.9
+70,7,H,H-R,Home,Rent,450.0
+71,7,P,P-G,Technology,Video/Computer Games,32.68
+72,7,T,T-A,Travel,Air Travel,5.5
+73,7,T,T-E,Travel,Entertainment on Trips,21.95
+74,7,T,T-F,Travel,Food on Trips,5.87
+76,8,B,B-C,Basics,Convenience Stores,22.68
+77,8,B,B-G,Basics,Gifts,49.82
+78,8,B,B-T,Basics,Local Public Transit,27.5
+79,8,D,D-X,Dining,Dining Out,56.87
+80,8,F,F-G,Food,Grocery Stores,166.77
+81,8,H,H-R,Home,Rent,450.0
+82,8,T,T-A,Travel,Air Travel,8.22
+83,8,W,W-C,Clothing,Clothes,272.06
+85,9,A,A-X,ATM,ATM Withdrawals,-0.52
+86,9,B,B-C,Basics,Convenience Stores,5.61
+87,9,B,B-T,Basics,Local Public Transit,16.5
+88,9,D,D-X,Dining,Dining Out,31.740000000000002
+89,9,F,F-G,Food,Grocery Stores,157.26
+90,9,F,F-V,Food,Vending Machines,3.71
+91,9,H,H-F,Home,House Furnishings,86.06
+92,9,H,H-R,Home,Rent,450.0
+93,9,T,T-A,Travel,Air Travel,238.54
+95,10,B,B-T,Basics,Local Public Transit,27.5
+96,10,D,D-X,Dining,Dining Out,52.93
+97,10,E,E-S,Entertainment,Sports,22.32
+98,10,F,F-G,Food,Grocery Stores,143.45
+99,10,F,F-V,Food,Vending Machines,0.58
+100,10,H,H-F,Home,House Furnishings,44.69
+101,10,H,H-R,Home,Rent,450.0
+103,10,T,T-A,Travel,Air Travel,2.41
+104,10,T,T-F,Travel,Food on Trips,19.05
+105,10,T,T-S,Travel,Public Transit on Trips,55.01
+107,11,B,B-G,Basics,Gifts,11.77
+108,11,B,B-R,Basics,Cabs and Rideshare,-15.84
+109,11,B,B-T,Basics,Local Public Transit,22.0
+110,11,B,B-X,Basics,Basics--Other,11.28
+111,11,D,D-X,Dining,Dining Out,46.2
+112,11,F,F-A,Food,Beer/Wine/Liquor,5.81
+113,11,F,F-G,Food,Grocery Stores,203.32
+114,11,H,H-R,Home,Rent,450.0
+115,11,P,P-A,Technology,Tech Accessories,47.54
+117,12,B,B-R,Basics,Cabs and Rideshare,30.54
+118,12,B,B-T,Basics,Local Public Transit,40.38
+119,12,D,D-X,Dining,Dining Out,80.64999999999999
+120,12,E,E-W,Entertainment,Newspapers,8.0
+121,12,F,F-A,Food,Beer/Wine/Liquor,4.73
+122,12,F,F-G,Food,Grocery Stores,227.39999999999998
+123,12,F,F-V,Food,Vending Machines,1.57
+124,12,H,H-F,Home,House Furnishings,48.39
+125,12,H,H-M,Home,Moving,12.52
+126,12,H,H-R,Home,Rent,450.0
